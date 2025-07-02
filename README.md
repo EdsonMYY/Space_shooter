@@ -3,10 +3,10 @@ Este é um simples jogo 2D de tiro espacial, desenvolvido como um projeto de apr
 #### **Funcionalidades**
 *   Movimentação do jogador no eixo horizontal.
 *   Disparo de projéteis.
-*   Geração aleatória de inimigos que se movem pela tela.
-*   Detecção de colisão entre projéteis e inimigos.
+*   Geração aleatória de meteoros que se movem pela tela.
+*   Detecção de colisão entre projéteis e os meteoros.
 *   Sistema de pontuação.
-*   Tela de "Game Over" ao ser atingido por um inimigo.
+*   Tela de "Game Over" ao ser atingido por um meteoro.
 
 #### **Tecnologias Utilizadas**
 *   **Linguagem:** Python 3
