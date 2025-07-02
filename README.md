@@ -1,4 +1,4 @@
-Este é um simples jogo 2D de tiro espacial, desenvolvido como um projeto de aprendizado para aprimorar minhas habilidades em Python e na biblioteca Pygame. O objetivo é controlar uma nave, desviar de inimigos e atirar para marcar pontos.
+Este é um simples jogo 2D de tiro espacial, desenvolvido como um projeto de aprendizado para aprimorar minhas habilidades em Python e na biblioteca Pygame. O objetivo é controlar uma nave, desviar de meteoros e atirar para marcar pontos.
 
 #### **Funcionalidades**
 *   Movimentação do jogador no eixo horizontal.
